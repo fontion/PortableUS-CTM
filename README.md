@@ -12,3 +12,22 @@ Conclusions: YOLO-based models demonstrated high accuracy in detecting and local
 
 # Dataset
 [Download](https://miya.teracloud.jp/share/11d158075e365e97)
+
+# Article
+Journal of Medical Systems, Volume 49, article number 131.
+[Link](https://doi.org/10.1007/s10916-025-02275-z)
+
+Published on 10 October 2025
+
+```
+@article{wu2025real,
+  title={Real-Time Identification of Cricothyrotomy Landmarks in Emergency Care and Obstetric Patients Using Wireless Handheld Ultrasound and Edge-Computing Artificial Intelligence: A Prospective Observational Study},
+  author={Wu, Cheng-Yi and Li, Jia-Da and Shih, Po-Yuan and Huang, Cheng-Chia and Cheng, Hsiao-Liang and Wu, Chun-Yu and Tay, Joyce and Wu, Meng-Che and Wang, Chih-Hung and Chen, Chu-Song and others},
+  journal={Journal of Medical Systems},
+  volume={49},
+  number={1},
+  pages={131},
+  year={2025},
+  publisher={Springer}
+}
+```
